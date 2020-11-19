@@ -52,7 +52,7 @@ redis-server.exe
 
 ```
 # troubleshooting:
-some times on windows your will have networking problem to fix it try those configurations 
+some times on windows you will have networking problem to fix it try those configurations 
 if you getting this error when you start pserver-cli.exe:
 ```
 Could not connect to Redis at 127.0.0.1:6379: Name or service not known
